@@ -1,0 +1,1 @@
+Either open [IsZero.thy](./IsZero.thy) using Isabelle2025 (download Isabelle2025 from [https://isabelle.in.tum.de/](https://isabelle.in.tum.de/) and just run it; it's usually that simple!), or browse the proof at [`IsZero.html`](https://htmlpreview.github.io/?https://raw.githubusercontent.com/nano-o/circom/master/browser_info/Unsorted/circom/IsZero.html).
